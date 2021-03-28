@@ -11,5 +11,5 @@ function print_video_info(filepath) {
         .catch((err) => console.error("Something terrible happened: ", err))
 }
 
-const path = "./halo-kukon.webm"
+const path = "./file_example.mp4"
 print_video_info(path)
