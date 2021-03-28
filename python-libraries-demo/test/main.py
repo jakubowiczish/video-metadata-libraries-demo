@@ -1,6 +1,6 @@
+from ffmpeg_video_test import FfmpegTest
 from pymediainfo_video_test import PyMediaInfoTest
 from tiny_tag_video_test import TinyTagTest
-from ffmpeg_video_test import FfmpegTest
 
 
 def print_info():

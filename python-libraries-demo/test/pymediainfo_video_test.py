@@ -1,5 +1,6 @@
-from pymediainfo import MediaInfo
 import json
+
+from pymediainfo import MediaInfo
 
 
 class PyMediaInfoTest:
